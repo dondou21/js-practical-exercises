@@ -31,6 +31,12 @@ body {
   width: 3em;
 }
 
+/* Exercises 1 */
+
+#products article.sale{
+  background-color:  #ffddd2;
+}
+
 #cart table {
   border-collapse: collapse;
   margin: 1em 0;
